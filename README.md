@@ -21,7 +21,7 @@ Clone the repository
 ```
 https://github.com/iambalakrishnan/Text-Summarization.git
 ```
-## STEP 01- Create a conda environment after opening the repository
+## STEP 01 - Create a conda environment after opening the repository
 
 ```
 conda create --prefix ./env python=3.8 -y
@@ -32,14 +32,14 @@ conda activate ./env
 ```
 
 
-## STEP 02- install the requirements
+## STEP 02 - install the requirements
 
 ```
 pip install -r requirements.txt
 
 ```
 
-## STEP 03- install the requirements
+## STEP 03 - Run the application
 
 ```
 python app.py
