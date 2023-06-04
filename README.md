@@ -20,7 +20,6 @@ Clone the repository
 
 ```
 https://github.com/iambalakrishnan/Text-Summarization.git
-
 ```
 ## STEP 01- Create a conda environment after opening the repository
 
