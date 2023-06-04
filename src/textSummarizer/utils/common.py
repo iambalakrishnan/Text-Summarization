@@ -6,7 +6,7 @@ from pathlib import Path
 from typing import Any
 import yaml
 
-from src.textSummarizer.loggong.log import logger
+from src.textSummarizer.logging.log import logger
 
 
 @ensure_annotations
