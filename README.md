@@ -32,12 +32,13 @@ conda activate ./env
 ```
 
 
-## STEP 02 - install the requirements
+## STEP 02 - Install the requirements
 
 ```
 pip install -r requirements.txt
 
 ```
+
 
 ## STEP 03 - Run the application
 
@@ -45,7 +46,6 @@ pip install -r requirements.txt
 python app.py
 
 ```
-
 
 ```
 open up you local host and port
